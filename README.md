@@ -13,7 +13,7 @@ Deverá ser sorteada uma palavra e uma categoria de palavras, o usuário deverá
 Styled-Components: para a estilização dos componentes
 
 
-#### Resultados
+# Resultados
 
 ![image](https://github.com/ArthurPanzera13/SecretWord/assets/95319710/f4d29bcd-451a-4c3c-9ebc-9ae27808252d)
 
