@@ -1,7 +1,7 @@
 {
   "name": "secretword",
   "version": "0.1.0",
-  "homepage": "https://ArthurPanzera13.github.io/SecretWord/",
+  "homepage": "https://arthurpanzera13.github.io/SecretWord/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
