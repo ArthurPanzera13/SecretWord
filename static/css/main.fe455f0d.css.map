@@ -1,1 +1,1 @@
-{"version":3,"file":"static/css/main.fe455f0d.css","mappings":"AAAA,KACI,uGACJ","sources":["App.css"],"sourcesContent":[".App {\n    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;\n}\n"],"names":[],"sourceRoot":""}
+{"version":3,"file":"static/css/main.fe455f0d.css","mappings":"AAAA,KACI,uGACJ","sources":["App.css"],"sourcesContent":[".App {\r\n    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;\r\n}\r\n"],"names":[],"sourceRoot":""}
