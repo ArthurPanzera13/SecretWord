@@ -9,6 +9,10 @@ export const StyledTitle = styled.h1`
     color: white;
     font-size: 60px;
     text-decoration: underline;
+
+    @media (max-width: 799px){
+        font-size: 20px;
+    }
 `;
 
 export const StyledSubTitile = styled.h3`
@@ -76,6 +80,10 @@ export const StyledDiv = styled.div`
     flex-direction: row;
     margin-top: 5%;
     gap: 20px;
+
+    @media (max-width: 1499px){
+        margin-top: -1%; 
+    }
 `;
 
 export const StyledDivSpan = styled.span`
@@ -86,6 +94,16 @@ export const StyledDivSpan = styled.span`
     text-transform: uppercase;
     flex-direction: row;
     display: flex;
+
+    @media (max-width: 1499px){
+        padding: 0.3em; 
+        margin-top: -1%;
+    }
+
+    @media (max-width: 799px){
+        display: flex;
+        flex-direction: column;
+    }
 
 `;
 
@@ -103,4 +121,9 @@ export const StyledSpan = styled.span`
     font-weight: bold;
     align-items: center;
     justify-content: center;
+
+    @media (max-width: 799px){
+        font-size: 10px;
+        height: 50px;
+    }
 `;

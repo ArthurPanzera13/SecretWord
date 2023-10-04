@@ -23,5 +23,6 @@ Styled-Components: para a estilização dos componentes
 
 ![image](https://github.com/ArthurPanzera13/SecretWord/assets/95319710/f29be56c-8e7b-425f-9187-6cb3fb251a5e)
 
+Link do Projeto https://arthurpanzera13.github.io/SecretWord/
 Todos os objetivos propostos foram alcançados na finalização do projeto.
 
